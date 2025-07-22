@@ -1,3 +1,13 @@
+/*Universidade Federal de São Carlos
+Projeto de Sistemas Computacionais Embarcados
+Professor: Emerson Carlos Pedrino
+
+Autores:
+João Vitor Ribeiro de Oliveira
+Davi Cerchiari Alves
+*/
+
+
 #include <stdlib.h> // NECESSÁRIO para a função rand()
 #include <stdio.h>
 #include "address_map_arm.h"
