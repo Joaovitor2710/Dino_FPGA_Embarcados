@@ -33,12 +33,14 @@ Jogo estilo **Chrome Dino**, desenvolvido como projeto final da disciplina de **
 
 - 📷 Imagens do jogo em execução:
 
-  ![Tela Inicial](Imagens/tela_inicial.jpg)
-  ![Modo Diurno](Imagens/modo_dia.jpg)
-  ![Modo Noturno](Imagens/modo_noite.jpg)
-  ![Dinossauro Abaixado](Imagens/dino_abaixado.jpg)
-  ![Tela de Game Over](Imagens/game_over.jpg)
-  ![Placa FPGA em Operação](Imagens/placa_fpga.jpg)
+<p align="center">
+  <img src="Imagens/tela_inicial.jpg" alt="Tela Inicial" width="400"/>
+  <img src="Imagens/modo_dia.jpg" alt="Modo Diurno" width="400"/>
+  <img src="Imagens/modo_noite.jpg" alt="Modo Noturno" width="400"/>
+  <img src="Imagens/dino_abaixado.jpg" alt="Dinossauro Abaixado" width="400"/>
+  <img src="Imagens/game_over.jpg" alt="Tela de Game Over" width="400"/>
+  <img src="Imagens/placa_fpga.jpg" alt="Placa FPGA" width="400"/>
+</p>
 
 - 🎥 [Vídeo de demonstração no Google Drive](https://drive.google.com/file/d/1Jg21BqgiIf8z2gxjvxtYR6zhrmLHtB3L/view?usp=drive_link)
 
