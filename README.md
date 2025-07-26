@@ -80,9 +80,10 @@ Você pode replicar esse padrão para definir todos os demais sprites.
 
 ## :busts_in_silhouette: Créditos
 
-- João Vitor Ribeiro de Oliveira (813109)
+- João Vitor Ribeiro de Oliveira (813109)  
 - Davi Cerchiari Alves (813985)
 
+**Curso:** Engenharia de Computação  
 **Professor:** Emerson Carlos Pedrino  
 **Universidade Federal de São Carlos (UFSCar)** — Departamento de Computação
 
